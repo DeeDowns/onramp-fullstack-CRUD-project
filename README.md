@@ -67,7 +67,7 @@ A large part of building a successful project is showing us the versions you had
 #### Web Devlopment Best Practices 
 
 It's important to subscribe to a set of best practices when designing and implementing a web app. Be mindful of these widely accepted principles:
-Keep your code DRY (don't repeat yourself). 
+Keep your code[DRY](https://code.tutsplus.com/tutorials/3-key-software-principles-you-must-understand--net-25161) (don't repeat yourself). 
 Understand the big picture.
 Start with the user experience.
 Make sure your code is clean and simple.
@@ -108,9 +108,15 @@ Once you’ve submitted your project, you are expected to stop working on it. An
 
 ## Onramp Resources: 
 
-Please use the modules and resources in the Blend Training Plan for resources and exercises on TypeScript and Version Control. 
+Please use the modules and resources in the [Blend Training Plan](https://www.onramp.io/training/5fce6ab55cd2a500174dc937) for resources and exercises on TypeScript and Version Control. 
 
 ## Other Resources: 
+
+- [Website Design & Development](https://envisionitagency.com/blog/2018/04/best-practices-for-web-development/)
+- [Development in Go](https://go.dev/solutions/webdev/)
+- [Typescript Do's and Don'ts](https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html)
+- [Typescript Best Practices](https://engineering.zalando.com/posts/2019/02/typescript-best-practices.html)
+- [Separation of Concerns](https://youtu.be/VtF6aebWe58)
 
 
 
