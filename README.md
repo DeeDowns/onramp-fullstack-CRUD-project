@@ -67,7 +67,7 @@ A large part of building a successful project is showing us the versions you had
 #### Web Devlopment Best Practices 
 
 It's important to subscribe to a set of best practices when designing and implementing a web app. Be mindful of these widely accepted principles:
-Keep your code[DRY](https://code.tutsplus.com/tutorials/3-key-software-principles-you-must-understand--net-25161) (don't repeat yourself). 
+Keep your code [DRY](https://code.tutsplus.com/tutorials/3-key-software-principles-you-must-understand--net-25161) (don't repeat yourself). 
 Understand the big picture.
 Start with the user experience.
 Make sure your code is clean and simple.
