@@ -8,9 +8,9 @@ This project seeks to better inform the Onramp team of your experience with prog
 
 You have seven days to complete this project. We expect those who have a moderate level of development experience to spend between 24 and 32 hours to design, implement, document, and submit the project to us. Depending on your level, it may take more or less time, so please plan accordingly.
 
-### The project is due on Wednesday, January 13 at 9:00am PST/12:00pm EST
+**The project is due on Wednesday, January 13 at 9:00am PST/12:00pm EST**
 
-### Project Summary 
+#### Project Summary 
 
 - Total time available to complete: 7 days
 - Due date/time: Wednesday, January 13 at 9:00am PST/12:00pm EST
@@ -77,19 +77,19 @@ Using these principles will result in a high quality user experience and ensurin
 
 Each project submission must include a README file providing an overview of the application and details the app's overall architecture as well as your design decisions. Screenshots of the web app taken from the browser (localhost is fine) are also required. This task assesses the critical competency of communicating and documenting technical concepts.
 
-#### What we are NOT Evaluating
+## What we are NOT Evaluating
 
-## Testing 
+#### Testing 
 
 Testing frameworks and strategies are intentionally NOT included within the rubric because we want you to dedicate your time to building a functional application (We do realize that unit and integration testing are critical practices development, but this take home project prioritizes a focus on surfacing your web development proficiency).
 
-## Feature depth
+#### Feature depth
 
 You won’t be earning extra points for having a bunch of features. Focus on creating a clean, simple application that addresses all of the requirements and is documented properly for submission.
 
-#### Submission Information
+## Submission Information
 
-### Submission Format
+#### Submission Format
 
 This repository will be your starting point. Please download (not clone or fork) this Github repository (INSERT GITHUB LINK HERE WHEN READY) and upload changes to a newly created repository. Once the web application has been completed, you'll be submitting a link to the new repository you created. Prior to submitting your project, you should update the README file to provide the following information:
 - A high level architectural overview of your web application. e.g. names, relationships and purposes of all UI Components.
@@ -98,19 +98,19 @@ This repository will be your starting point. Please download (not clone or fork)
 - Screenshots of each page in your application and descriptions of the overall user flow.
 
 
-### Submission Deadline + Process 
+#### Submission Deadline + Process 
 
 You must submit your project by 9:00am PST/12:00pm EST on Wednesday, January 13 using [this form](https://docs.google.com/forms/d/e/1FAIpQLSdtHMQzqCd1o8aVcFRbNfXOGTzijTJBMSaWvtNnx6CJbDEmJQ/viewform). Be sure that your project is viewable by the Onramp team (specifically @rubamhassan if it is private). 
 
 Once you’ve submitted your project, you are expected to stop working on it. Any commits that occur after submission or the deadline will not be reviewed. 
 
-### Additional Resources
+## Additional Resources
 
-## Onramp Resources: 
+### Onramp Resources: 
 
 Please use the modules and resources in the [Blend Training Plan](https://www.onramp.io/training/5fce6ab55cd2a500174dc937) for resources and exercises on TypeScript and Version Control. 
 
-## Other Resources: 
+### Other Resources: 
 
 - [Website Design & Development](https://envisionitagency.com/blog/2018/04/best-practices-for-web-development/)
 - [Development in Go](https://go.dev/solutions/webdev/)
