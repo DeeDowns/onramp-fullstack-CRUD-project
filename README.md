@@ -6,7 +6,7 @@ Congratulations for making it this far in the interview process for the Blend Ap
 
 This project seeks to better inform the Onramp team of your experience with programming  as well as prepare you for your interview at Blend.
 
-You have seven days to complete this project. We expect those who have a moderate level of development experience to spend between 24 and 32 hours to design, implement, document, and submit the project to us. Depending on your level, it may take more or less time, so please plan accordingly.
+You have seven days to complete this project. We expect those who have a moderate level of development experience to spend between 30 and 40 hours to design, implement, document, and submit the project to us. Depending on your level, it may take more or less time, so please plan accordingly.
 
 **The project is due on Wednesday, January 13 at 9:00am PST/12:00pm EST**
 
