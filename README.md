@@ -14,7 +14,7 @@ You have seven days to complete this project. We expect those who have a moderat
 
 - Total time available to complete: 7 days
 - Due date/time: Wednesday, January 13 at 9:00am PST/12:00pm EST
-- Expected development time to complete: 24 - 32 hours 
+- Expected development time to complete: 30 - 40 hours 
 
 ## Description and Details 🔎
 
@@ -30,13 +30,14 @@ For this project, we want you to build a simple blog post web application that m
 At a minimum, your app should allow for users to be able to:
 - Create an account, login, and log out.
 - CRUD functionality:
-  Create a new blog post.
-  Read a blog post.
+  Create a new blog post
+  Read a blog post
   Update a post
   Delete a post
 - Search for blog posts based on at least 2 factors (date, title, etc.)
 - Favorite one or more blog posts at the same time.
 - View all of their favorites.
+- Unit testing.
 
 **Note: you will need to detail where and how your app meets these requirements in your repository's README file when you submit your project. 
 
