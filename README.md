@@ -51,7 +51,7 @@ We will evaluate your project by assessing the overall strength and quality of t
 
 #### UI Design
 
-A UI that converts all the requirements into user-friendly features. Assume the user is not tech savvy and needs the site to be intuitive. That said, do not focus all of your efforts on making a beautiful interface, it’s more important that the app works as expected and that you implement all of the features.
+A UI that converts all the requirements into user-friendly features. Assume the user is not tech savvy and needs the site to be intuitive. That said, do not focus all of your efforts on making a beautiful interface, it’s more important that the app works as expected and that you implement all of the requirements.
 
 #### Architecture Pattern
 
