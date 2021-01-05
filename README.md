@@ -20,13 +20,13 @@ You have seven days to complete this project. We expect those who have a moderat
 
 For this project, we want you to build a simple blog post web application that meets the following requirements:
 
-## Technical/Architectural Requirements:
+### Technical/Architectural Requirements:
 
 - Build the blog application using TypeScript on the frontend. You can use either TypeScript or Go on the backend. 
 - Implement a database using PostGreSQL.
 - Write Unit Tests
 
-## Feature Requirements: 
+### Feature Requirements: 
 
 At a minimum, your app should allow for users to be able to:
 - Create an account, login, and log out.
@@ -41,7 +41,7 @@ At a minimum, your app should allow for users to be able to:
 
 **Note: you will need to detail where and how your app meets these requirements in your repository's README file when you submit your project. 
 
-#### Researching and Plagiarism
+### Researching and Plagiarism
 
 You are actively encouraged to research the web, books, videos, or tutorials for this project. That said, we expect all code that is submitted to be your own (e.g. this project should NOT be completed with another person). That means that we expect each candidate to refrain from copying and/or pasting code into the project. If we find copied code in your project, we will have to disqualify you. Web and video resources are available at the end of this document.
 
