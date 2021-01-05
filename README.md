@@ -24,20 +24,20 @@ For this project, we want you to build a simple blog post web application that m
 
 - Build the blog application using TypeScript on the frontend. You can use either TypeScript or Go on the backend. 
 - Implement a database using PostGreSQL.
+- Write Unit Tests
 
 ## Feature Requirements: 
 
 At a minimum, your app should allow for users to be able to:
 - Create an account, login, and log out.
 - CRUD functionality:
-  Create a new blog post
-  Read a blog post
-  Update a post
-  Delete a post
+  - Create a new blog post
+  - Read a blog post
+  - Update a post
+  - Delete a post
 - Search for blog posts based on at least 2 factors (date, title, etc.)
 - Favorite one or more blog posts at the same time.
 - View all of their favorites.
-- Unit testing.
 
 **Note: you will need to detail where and how your app meets these requirements in your repository's README file when you submit your project. 
 
@@ -64,6 +64,10 @@ An architecture pattern enables you to define a guide for how a piece of softwar
 Make sure to use version control with your app using a Github repository. 
 A large part of building a successful project is showing us the versions you had of the project so we can see the progress that you made.
 
+#### Unit Testing 
+
+Unit testing is an important component of development. For this project, you will need to utilize a unit testing framework of your choice on at least one specific module of your application. You do not need to write integration tests or include other types of tests. 
+
 
 #### Web Devlopment Best Practices 
 
@@ -80,13 +84,9 @@ Each project submission must include a README file providing an overview of the 
 
 ## What we are NOT Evaluating
 
-#### Testing 
-
-Testing frameworks and strategies are intentionally NOT included within the rubric because we want you to dedicate your time to building a functional application (We do realize that unit and integration testing are critical practices development, but this take home project prioritizes a focus on surfacing your web development proficiency).
-
 #### Feature depth
 
-You won’t be earning extra points for having a bunch of features. Focus on creating a clean, simple application that addresses all of the requirements and is documented properly for submission.
+You won’t be earning extra points for having a bunch of features. Focus on creating a clean, simple application that addresses all of the requirements, has well-tested features, and is documented properly for submission.
 
 ## Submission Information
 
